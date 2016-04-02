@@ -1,3 +1,6 @@
+Hillwave Customized Chicago Boss
+================================
+
 Chicago Boss: Start small, dream big
 ====================================
 [![Build Status](https://travis-ci.org/ChicagoBoss/ChicagoBoss.svg?branch=master)](https://travis-ci.org/ChicagoBoss/ChicagoBoss)
